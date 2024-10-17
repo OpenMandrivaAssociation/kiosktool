@@ -5,7 +5,7 @@ Release:       0.%svn.1
 Summary:       Tool for system administrators to enable KDE's KIOSK
 Group:         Networking/File transfer
 License:       GPLv2+
-Url:           http://www.kde.org
+Url:           https://www.kde.org
 Source0:       %{name}-%{version}.%svn.tar.bz2
 BuildRequires: kdelibs4-devel
 BuildRequires: kdebase4-workspace
